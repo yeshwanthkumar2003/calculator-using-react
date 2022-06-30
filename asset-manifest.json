@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yeshwanthkumar2003/calculator-using-react.git/static/css/main.3607d8f1.css",
+    "main.js": "/yeshwanthkumar2003/calculator-using-react.git/static/js/main.39060cdc.js",
+    "index.html": "/yeshwanthkumar2003/calculator-using-react.git/index.html",
+    "main.3607d8f1.css.map": "/yeshwanthkumar2003/calculator-using-react.git/static/css/main.3607d8f1.css.map",
+    "main.39060cdc.js.map": "/yeshwanthkumar2003/calculator-using-react.git/static/js/main.39060cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3607d8f1.css",
+    "static/js/main.39060cdc.js"
+  ]
+}
